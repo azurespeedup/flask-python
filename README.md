@@ -1,2 +1,5 @@
-# flask-python
-Flask python webapp for Udacity Azure DevOps nanodegree
+# flask-ml-service
+A sample Flask application to showcase the Azure Pipeline.
+
+## Environment
+Python 3.7
