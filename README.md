@@ -10,3 +10,5 @@ az webapp up --resource-group Azuredevops --n flaskpythontrong --sku F1
 ## adding runtime & logs for above command
 az webapp up --resource-group Azuredevops --n flaskpythontrong --sku F1 --logs --runtime "PYTHON:3.9"
 
+## make a file executable in Linux
+chmod +x file_name.sh
